@@ -1,0 +1,16 @@
+torch
+torchvision
+albumentations
+grad-cam
+scikit-learn
+matplotlib
+seaborn
+kaggle
+tqdm
+opencv-python
+numpy
+pandas
+django
+pillow
+onnx
+onnxscript

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Django
+webapp/db.sqlite3
+webapp/staticfiles/
+
+# Logs and local env
+*.log
+.env
+.env.*
+
+# Large data and model artifacts
+data/dataset/
+data/IP102-Dataset.zip
+artifacts/
+
+# Build/distribution
+build/
+dist/
+*.egg-info/
